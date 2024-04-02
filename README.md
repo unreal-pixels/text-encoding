@@ -1,4 +1,4 @@
-# Unreal Pixels JSON Linter
+# Unreal Pixels Text Encoder and Decoder
 
 ### `npm start`
 
